@@ -6,7 +6,7 @@
 4. Hướng dẫn cách chơi:
 - Sử dụng các phím [<-] để di chuyển sang trái (walk) và [->] để di chuyển sang phải (walk).
 - Sử dụng các phím [A] để di chuyển sang trái với tốc độ nhanh (run) và [D] để di chuyển sang phải với tốc độ nhanh (run).
-- Mở đầu sẽ có 4 mạng chơi (4 Cá) Mỗi lần va trúng vật thể rơi sẽ mất đi 1 mạng, khi không còn mạng nào và va trúng vật thể rơi trò chơi sẽ kết.
+- Mở đầu sẽ có 4 mạng chơi (4 Cá) Mỗi lần va trúng vật thể rơi sẽ mất đi 1 mạng, khi không còn mạng nào và va trúng vật thể rơi trò chơi sẽ kết thúc.
 5. Tiến độ sắp tới:
 -thêm chức năng tính điểm .
 -mở rộng hệ thống vật thể rơi : bổ sung vật thể rơi khi va phải sẽ tăng nhiều điểm.
