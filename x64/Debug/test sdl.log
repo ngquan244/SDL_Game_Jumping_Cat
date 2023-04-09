@@ -1,0 +1,12 @@
+﻿  Common_Func.cpp
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.h(61,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.h(197,54): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.cpp(184,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.cpp(305,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.cpp(306,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.cpp(331,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.cpp(370,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.cpp(580,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.cpp(581,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workspace\source_SDL_game\repos\sourcecode\test sdl\Common_Func.cpp(585,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  test sdl.vcxproj -> D:\Workspace\source_SDL_game\repos\sourcecode\x64\Debug\test sdl.exe
