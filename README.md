@@ -1,5 +1,10 @@
 # SDL_Game_Jumping_Cat
 
+Họ và tên sinh viên: Nguyễn Mạnh Quân
+K67-CACLC2-CN8-UET-VNU
+MÃ SINH VIÊN: 22028171
+Bài tập lớn - Lập trình nâng cao 
+
 1. Tên Trò Chơi : Jumping Cat.
 2. Thể loại game: trò chơi phản xạ.
 3. Mô tả game: Sử dụng các phím bấm để tránh các vật thể rơi (đồng thời nhặt thêm items để để tăng điểm, sinh mệnh,... sẽ phát triển trong tiến độ sắp tới)
