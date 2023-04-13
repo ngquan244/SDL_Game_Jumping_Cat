@@ -184,7 +184,8 @@ void MainObject::Show(SDL_Renderer* des)
         frame_++;
     }
     
-    */
+    
+    
     if (frame_ >= 6)
     {
         frame_ = 0;
